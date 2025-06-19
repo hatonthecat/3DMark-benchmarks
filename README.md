@@ -12,6 +12,9 @@ https://www.techpowerup.com/gpu-specs/radeon-hd-7470-oem.c299 :
 
 ![image](https://github.com/user-attachments/assets/efc2249a-51d0-49fc-a526-62f5b2da0388)
 
+"The Little Rig"
+--
+
 ![IMG_20250619_180656_1](https://github.com/user-attachments/assets/0a551a30-2ec8-4c6e-9a77-0333f33fab38)
 
 ![IMG_20250619_180435_2](https://github.com/user-attachments/assets/b6a19039-7612-4c3a-97dd-a22d2f2e0741)
