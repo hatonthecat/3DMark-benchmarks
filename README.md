@@ -6,6 +6,8 @@ https://www.3dmark.com/3dm11/16667222 (7470)
 
 https://www.3dmark.com/3dm03/6567009 (7470)
 
+https://www.3dmark.com/3dm05/5570746 
+
 https://www.techpowerup.com/gpu-specs/radeon-hd-6450.c402 (+100 MHz) = 
 
 https://www.techpowerup.com/gpu-specs/radeon-hd-7470-oem.c299 :
