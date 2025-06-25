@@ -1,5 +1,13 @@
 # 3DMark-benchmarks
 
+https://www.3dmark.com/3dm03/6567077 (Radeon 6250)
+
+https://www.3dmark.com/3dm05/5570782
+
+https://www.3dmark.com/3dm06/18302185
+
+--
+
 http://www.3dmark.com/3dm06/18301941 (R5 240)
 
 https://www.3dmark.com/3dm11/16667222 (7470)
